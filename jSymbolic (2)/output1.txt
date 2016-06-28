@@ -1,0 +1,5 @@
+Average Note Duration 0.5903
+Initial Tempo 137.0
+Note Density 5.0
+Number of Unpitched Instruments 0.0
+Polyrhythms 0.2308
